@@ -1,1 +1,1 @@
-# diabetes-detector
+# stock price prediction
